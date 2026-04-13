@@ -17,6 +17,8 @@ frontend run --- npm start
 backend run --- nodemon
 (http://localhost:5001)
 
+db name in backend db file mentioned : school-management-system
+
 
 Project Workflow (Admin Dashboard System)
 1. Admin Registration
